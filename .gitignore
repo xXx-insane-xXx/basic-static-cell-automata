@@ -1,0 +1,6 @@
+.venv
+test
+.test
+.project
+*.pyc
+
